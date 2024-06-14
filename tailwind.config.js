@@ -16,8 +16,15 @@ module.exports = {
         nato: '"Noto Sans JP", sans-serif',
         flamenco: '"Flamenco", sans-serif'
       },
-
-
+      screens: {
+        xs: "480px",
+        ss: "620px",
+        sm: "768px",
+        ms: "880px",
+        md: "1060px",
+        lg: "1200px",
+        xl: "1700px"
+      },
     },
   },
   plugins: [],
